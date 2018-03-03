@@ -1,0 +1,7 @@
+Base block which must be defended - destruction = game over
+
+Resource blocks which can be mined/collected/scavenged from enemies to build defenses
+
+Defenses - static walls, manual weapons/emplacements, automated turrets, free-roaming defensive AI
+
+Enemies - spawn in at (destructible?) spawner block at set intervals, move initially in straight line from spawner to base block
