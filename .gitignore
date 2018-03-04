@@ -2,12 +2,8 @@
 *.ini
 Procrastination/Intermediate/CachedAssetRegistry.bin
 Procrastination/Saved/Autosaves/PackageRestoreData.json
-Procrastination/Saved/Backup/TopDownExampleMap_2018-03-02-21-29-38.umap
 Procrastination/Saved/Logs/Procrastination-backup-2018.03.02-21.18.59.log
-Procrastination/Saved/Logs/Procrastination.log
 Procrastination/Saved/Autosaves/PackageRestoreData.json
-Procrastination/Intermediate/CachedAssetRegistry.bin
 *.bin
 *.log
-*.bin
 Procrastination/Saved/Logs/Procrastination.log
